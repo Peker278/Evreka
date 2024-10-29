@@ -1,0 +1,7 @@
+Dataset include duplicate value so dataset is noise.
+Dataset is cleansed from duplicate value  . 
+One record is ignored belong to 151768 route_id.
+Because, next record  distance value of relevant record without not being zero , little bit decreased.
+The duration and distance values ​​of the routes were determined 
+according to the blank, zero and difference status of the next and previous distance values.
+Transactions done is available in comment lines. 
